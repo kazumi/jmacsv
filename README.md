@@ -7,7 +7,7 @@ http://xml.kishou.go.jp/tec_material.html
 
 ## ファイルの説明
 
-気象庁で配布している jmaxml_20170530_Code.zip から生成しました。
+気象庁で配布している jmaxml_20170613_Code.zip から生成しました。
 
 * AreaFloodForecast-AreaFloodForecast.csv
 
