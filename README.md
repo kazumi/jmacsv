@@ -7,7 +7,7 @@ http://xml.kishou.go.jp/tec_material.html
 
 ## ファイルの説明
 
-気象庁で配布している jmaxml_20170706_Code.zip から生成しました。
+気象庁で配布している jmaxml_20171017_Code.zip から生成しました。
 
 * AreaFloodForecast-AreaFloodForecast.csv
 
@@ -113,9 +113,9 @@ http://xml.kishou.go.jp/tec_material.html
 
 地震火山関連コード表.xls の「81」シート
 
-* EarthquakeVolcano-82.csv
+* EarthquakeVolcano-82 .csv
 
-地震火山関連コード表.xls の「82」シート
+地震火山関連コード表.xls の「82 」シート
 
 * PhenologicalType-XML.csv
 
