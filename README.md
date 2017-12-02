@@ -7,7 +7,7 @@ http://xml.kishou.go.jp/tec_material.html
 
 ## ファイルの説明
 
-気象庁で配布している jmaxml_20171017_Code.zip から生成しました。
+気象庁で配布している jmaxml_20171127_Code.zip から生成しました。
 
 * AreaFloodForecast-AreaFloodForecast.csv
 
@@ -123,11 +123,11 @@ http://xml.kishou.go.jp/tec_material.html
 
 * PointAmedas-ame_master.csv
 
-20170626_PointAmedas.xls の「ame_master」シート
+20171127_PointAmedas.xls の「ame_master」シート
 
 * PointAmedas-snow_master.csv
 
-20170626_PointAmedas.xls の「snow_master」シート
+20171127_PointAmedas.xls の「snow_master」シート
 
 * RiverOffice-RiverOffice.csv
 
