@@ -7,7 +7,7 @@ http://xml.kishou.go.jp/tec_material.html
 
 ## ファイルの説明
 
-気象庁で配布している jmaxml_20171127_Code.zip から生成しました。
+気象庁で配布している jmaxml_20180309_Code.zip から生成しました。
 
 * AreaFloodForecast-AreaFloodForecast.csv
 
@@ -43,7 +43,7 @@ http://xml.kishou.go.jp/tec_material.html
 
 * AreaRiver-AreaRiver.csv
 
-20170517_AreaRiver.xls の「AreaRiver」シート
+20180309_AreaRiver.xls の「AreaRiver」シート
 
 * EarthquakeVolcano-11.csv
 
@@ -123,11 +123,11 @@ http://xml.kishou.go.jp/tec_material.html
 
 * PointAmedas-ame_master.csv
 
-20171127_PointAmedas.xls の「ame_master」シート
+20180308_PointAmedas.xls の「ame_master」シート
 
 * PointAmedas-snow_master.csv
 
-20171127_PointAmedas.xls の「snow_master」シート
+20180308_PointAmedas.xls の「snow_master」シート
 
 * RiverOffice-RiverOffice.csv
 
